@@ -1,0 +1,4 @@
+Title|ID|Author's name|Language|Release year|Price|Stolk level
+Nhap mon lap trinh|nmlt|Van Chi Nam|Vietnamese|2018|100|3
+Ki thuat lap trinh|ktlt|Dinh Ba Tien|English|2019|230|2
+Sherlock Holmes|detectiveStory|Conan Doyle|English|1997|350|2
